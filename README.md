@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnandIshmeet2009
-- 👀 I’m interested in python,html and css
+- 👀 I’m interested in python,html,js and css
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach ishmeetsinghanand14@gmail.com
+- 📫 How to reach me- ishmeetsinghanand14@gmail.com
 
 <!---
 AnandIshmeet2009/AnandIshmeet2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
